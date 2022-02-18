@@ -8,3 +8,12 @@ Grow exponentially.
 - 📫 DNSSnowstudios.io@gmail.com
 
 Happy coding.
+
+THIS REPOSITORY WILL ACT AS A SORT OF LOG AND JOURNAL.
+
+Ideas I have
+Current Projects 
+New projects
+Fun Facts 
+Quick Notes 
+And other miscellaneous data.
